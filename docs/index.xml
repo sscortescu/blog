@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Stefan&#39;s blog</title>
-    <link>https://sscortescu.github.io/blog/</link>
+    <link>https://sscortescu.github.com/blog/</link>
     <description>Recent content on Stefan&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 23 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sscortescu.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sscortescu.github.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>#1 Building in public and Generating startup ideas</title>
-      <link>https://sscortescu.github.io/blog/posts/bip/</link>
+      <link>https://sscortescu.github.com/blog/posts/bip/</link>
       <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sscortescu.github.io/blog/posts/bip/</guid>
+      <guid>https://sscortescu.github.com/blog/posts/bip/</guid>
       <description>Hi, I’m Stefan.
 If you’re reading this you probably know me personally, so you know that I’ve had an entrepreneurial itch since the pandemic started. Two and a half years later, I’ve built up enough courage to scratch that itch. I plan to spend the next phase of my life creating a software solution to a yet-to-be-defined problem.
 What’s in this post:
