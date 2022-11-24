@@ -3,3 +3,6 @@ title: Stefan's blog
 paginate: 5
 theme: PaperMod
 publishDir: docs
+params:
+    assets:
+        disableFingerprinting: true
