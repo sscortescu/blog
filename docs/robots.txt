@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://sscortescu.github.io/blog/sitemap.xml
