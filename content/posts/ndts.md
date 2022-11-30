@@ -101,4 +101,4 @@ This will mean that I’ll be working on a few things in parallel:
 - Build an MVP. TBD how functional it’s going to be (could be some mockups, a landing page, an actual add-on with basic functionality). The idea is to have something people can react to
 - Understand existing solutions, and what could be a unique angle of attack
 
-## **🙏Thank you for reading! Your feedback is always very helpful** 💜**!**
+## **🙏Thank you for reading! Your feedback is always very helpful💜 !**
