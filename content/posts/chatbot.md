@@ -9,9 +9,6 @@ Hey there! This is my last post for 2022, and I’ll be back to the regular upda
 
 ❌Prepare for customer interviews
 
-- Build a pipeline of people to talk to (end users, HR leaders, people managers)
-- Write up interview guides for each type
-
 ✅Try to decide whether going into a super crowded space is worth it
 
 ✅[Maybe] Try to see how far I can get in building out one of the ideas above
