@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.scortescu.com/posts/competition2/</loc>
-    <lastmod>2022-12-14T23:49:53+01:00</lastmod>
+    <loc>http://www.scortescu.com/posts/chatbot/</loc>
+    <lastmod>2022-12-22T14:34:06+01:00</lastmod>
   </url><url>
     <loc>http://www.scortescu.com/posts/</loc>
-    <lastmod>2022-12-14T23:49:53+01:00</lastmod>
+    <lastmod>2022-12-22T14:34:06+01:00</lastmod>
   </url><url>
     <loc>http://www.scortescu.com/</loc>
+    <lastmod>2022-12-22T14:34:06+01:00</lastmod>
+  </url><url>
+    <loc>http://www.scortescu.com/posts/competition2/</loc>
     <lastmod>2022-12-14T23:49:53+01:00</lastmod>
   </url><url>
     <loc>http://www.scortescu.com/posts/competition1/</loc>
