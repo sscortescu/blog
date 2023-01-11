@@ -53,7 +53,7 @@ Rationally, I understand that no matter what I’ll start, it will probably look
 
 **So…new deadline: whatever best idea I have by the end of January, I’ll run with it.**
 
-[doit.jpg](/newyear2023/doit.jpg#center)
+![doit.png](/newyear2023/doit.png#center)
 
 # My checklist for an idea worth exploring
 
