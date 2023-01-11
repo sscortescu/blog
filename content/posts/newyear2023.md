@@ -4,14 +4,14 @@ date: 2023-01-11T18:38:31+01:00
 draft: false
 ---
 
-Hi there, and thanks for reading my blog and for your feedback 💚! It’s making a huge difference, in that it forces me to make my thinking clearer and it makes this “journey” less lonely 🥲
+Hi there, and thanks for reading my blog and for your feedback 💚! It’s making a huge difference, in that it forces me to make my thinking clearer and it makes this “journey” less lonely.
 
 In my last post, I wrote about deciding to drop the field of employee engagement. As next steps, I proposed to:
 
 - Write up my checklist for an idea worth exploring
 - Try more ways to find micro-saas ideas.
 
-I also want to share a few personal reflections. So..on today’s menu, we have**:**
+**I also want to share a few personal reflections. So...on today’s menu, we have**:
 
 🐸*Amuse-bouche:* Snippets from my personal yearly review from 2022
 
@@ -25,7 +25,7 @@ I also want to share a few personal reflections. So..on today’s menu, we have*
 
 ![pingu.gif](/newyear2023/pingu.gif#center)
 
-# Snippets from my review for 2022
+# 🎇Snippets from my review for 2022
 
 For the third year in a row, I take 2-3 days at the end of the year to reflect on the past 12 months. In this review, I think of what I learned then set some goals for the coming year. 
 
@@ -43,9 +43,9 @@ So here are my biggest learnings for 2022:
 2. Run a marathon in under 4 hours 
 3. Grow my existing friendships and make new ones 
 
-# How’s it going, Stefan
+# 🤗How’s it going, Stefan
 
-*I’m thinking of making this a permanent section in the blog. This way, I can keep the complaining isolated, and you can skip it. Win win!* 
+*Thanks for asking! I’m thinking of making this a permanent section in the blog. This way, I can keep the complaining isolated, and you can skip it. Win win!* 
 
 It’s hitting me that after 1 and a half months of work, I don’t yet have something solid to jump on. Having missed my previous deadline (December 2022) for settling on an idea and starting to develop it is creating some anxiety. So I’m putting a lot of pressure on myself to find a problem worth solving. That’s creating anxiety, which I turn into procrastination - you know, because it’s impossible to fail at scrolling on LinkedIn. 
 
@@ -55,7 +55,7 @@ Rationally, I understand that no matter what I’ll start, it will probably look
 
 ![doit.png](/newyear2023/doit.png#center)
 
-# My checklist for an idea worth exploring
+# ☑️My checklist for an idea worth exploring
 
 My goal for this business is to reach a comfortable semi-passive income, while building it (mostly) alone. The business model that I think fits this goal best is SaaS, or more specifically, micro-Saas. 
 
@@ -76,7 +76,7 @@ I prepared a checklist to guide me in selecting an idea that’s not 💩 wrappe
     - I can imagine a way to build a 5x better/cheaper solution
     - The solution can be built on a top of a growing platform
 
-# More ways to find micro-SaaS ideas
+# 🤯More ways to find micro-SaaS ideas
 
 *…and how it’s going so far*
 
@@ -121,6 +121,5 @@ Find small business owners ➡️ Ask them about their most annoying recurring t
 
 Take some very broad business pain points that are currently addressed by big SaaS companies - contact management, lead generation, sales pipelines, time tracking, billing and invoice management, scheduling, planning, etc. Cross that with a specific professional/industrial/functional niche.
 
-# Next steps
-
+# ➡️Next steps
 Keep brainstorming using the approaches above
