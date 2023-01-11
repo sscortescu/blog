@@ -13,7 +13,7 @@ In my last post, I wrote about deciding to drop the field of employee engagement
 
 **I also want to share a few personal reflections. So...on today’s menu, we have**:
 
-🐸*Amuse-bouche:* Snippets from my personal yearly review from 2022
+🐸*Amuse-bouche:* Snippets from my personal yearly review from 2022 
 
 🦐*Appetizer*: How’s it going, Stefan?
 
