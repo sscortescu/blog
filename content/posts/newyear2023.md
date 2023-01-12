@@ -86,13 +86,13 @@ What this means is browsing through freelance job websites like Upwork, Freelanc
 
 I’ve done this for 2 days. Results: 0️⃣
 
-1. **Find problems on Reddit (and other communities)** 
+2. **Find problems on Reddit (and other communities)** 
 
 I wrote about this in my [first post](http://www.scortescu.com/posts/bip/). People complain about things and ask questions on Reddit, so it’s a good source for problems. If you don’t know what you’re looking for, this can be a huge time sink. I’ll come back to it in a few days/weeks. 
 
 I tried this for a day. Results: 0️⃣. But then I found [GummySearch](https://www.notion.so/Meetup-0a40291eb1444097b2b9869ac63c3a7b), which automatically synthesizes information on Reddit. So I’ll come back to it.
 
-1. **Find inspiration in SaaS idea newsletters**
+3. **Find inspiration in SaaS idea newsletters**
 
 There’s a ton of other people like me looking for ideas to build. Which is why there are also newsletters and blogs that write about specific (micro-SaaS) ideas (e.g. Business Brainstorms, and MicroSaasIdea). My approach here is select 1-2 idea from each issue, and give it my own twist. I also try to use them to create prompts for brainstorming more ideas
 
@@ -109,15 +109,15 @@ There’s a ton of other people like me looking for ideas to build. Which is why
 - One dashboard to monitor and reply to customer reviews from different platforms (in Slack?)
 ```
 
-1. **Make an analytics tool for a large growing platform**
+4. **Make an analytics tool for a large growing platform**
 
 This can help e.g. LinkedIn professional users analyze their performance. A few tools exist (e.g. [Hootsuite](https://www.notion.so/Idea-generation-experiments-70621ca73ad44e749f9874558056cfdb)) in this space, especially for social media. The trick is to find growing platforms that are still underserved. 
 
-1. **Automate manual tasks - based on interviews**
+5. **Automate manual tasks - based on interviews**
 
 Find small business owners ➡️ Ask them about their most annoying recurring tasks - how do they deal with them currently, how much would they pay to have it done for them automagically
 
-1. **Niche down big SaaS**
+6. **Niche down big SaaS**
 
 Take some very broad business pain points that are currently addressed by big SaaS companies - contact management, lead generation, sales pipelines, time tracking, billing and invoice management, scheduling, planning, etc. Cross that with a specific professional/industrial/functional niche.
 
