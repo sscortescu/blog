@@ -90,7 +90,7 @@ I’ve done this for 2 days. Results: 0️⃣
 
 I wrote about this in my [first post](http://www.scortescu.com/posts/bip/). People complain about things and ask questions on Reddit, so it’s a good source for problems. If you don’t know what you’re looking for, this can be a huge time sink. I’ll come back to it in a few days/weeks. 
 
-I tried this for a day. Results: 0️⃣. But then I found [GummySearch](https://www.notion.so/Meetup-0a40291eb1444097b2b9869ac63c3a7b), which automatically synthesizes information on Reddit. So I’ll come back to it.
+I tried this for a day. Results: 0️⃣. But then I found [GummySearch](gummysearch.com), which automatically synthesizes information on Reddit. So I’ll come back to it.
 
 3. **Find inspiration in SaaS idea newsletters**
 
@@ -111,7 +111,7 @@ There’s a ton of other people like me looking for ideas to build. Which is why
 
 4. **Make an analytics tool for a large growing platform**
 
-This can help e.g. LinkedIn professional users analyze their performance. A few tools exist (e.g. [Hootsuite](https://www.notion.so/Idea-generation-experiments-70621ca73ad44e749f9874558056cfdb)) in this space, especially for social media. The trick is to find growing platforms that are still underserved. 
+This can help e.g. LinkedIn professional users analyze their performance. A few tools exist (e.g. [Hootsuite](https://hootsuite.com/)) in this space, especially for social media. The trick is to find growing platforms that are still underserved. 
 
 5. **Automate manual tasks - based on interviews**
 
