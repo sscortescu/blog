@@ -8,7 +8,7 @@ Hi and thanks for coming by! Short update this week.
 
 In my last post, I finished with a list of ways to find micro-Saas ideas, that I planned to use.   
 
-So, for the past week-and-a-bit, I was trying find inspiration in SaaS idea newsletters (one of the ways…). This produced some moderate results, here’s a dump of ideas:
+One of the ways was trying find inspiration in SaaS idea newsletters. So, for the past week-and-a-bit, I've been doing that, which produced some moderate results. Here’s a dump of ideas:
 
 ```
 Idea dump
@@ -55,11 +55,11 @@ The top 10 fastest growing platforms are:
 9. Salesforce
 10. Zendesk
 
-So I went through the documentation of each of these platforms, and it looks like only **Slack** enables building using Python - for the rest, I’d need to learn JavaScript 😧. Some other platforms (e.g. Stripe) enable building things with Python, but not for apps on their marketplaces (which makes it harder to find a distribution channel for the app). 
+So I went through the documentation of each of these platforms, and it looks like only **Slack** enables building using Python. Some other platforms (e.g. Stripe) enable building things with Python, but not for apps on their marketplaces. This forces a choice on me between investing into learning a new programming language (I know some Python) or focusing on Slack. With Slack being one of the bigger platforms, typically used by companies that seem to often spend money on apps in the store, I don't think it's the worst forced choice.   
 
 # **How’s it going, Stefan**
 
-With a few more and diverse ideas, I feel more positive. However, I’m kind of bummed that Slack is the only platform I can start building on without starting to learn from scratch.  
+With a few more and diverse ideas, I feel more positive than last week. I've also been going to Improv classes and a few meetups (a solopreneur meetup and a product management meetup). It feels good to be able to talk to people going through similar moments in their lives.
 
 # **➡️Next steps**
 
