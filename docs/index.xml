@@ -9,7 +9,17 @@
       <link>http://www.scortescu.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 25 Jan 2023 22:15:18 +0100</lastBuildDate><atom:link href="http://www.scortescu.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2023 18:39:10 +0100</lastBuildDate><atom:link href="http://www.scortescu.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#9 Committing to build an AI bot</title>
+      <link>http://www.scortescu.com/posts/commit/</link>
+      <pubDate>Wed, 01 Feb 2023 18:39:10 +0100</pubDate>
+      
+      <guid>http://www.scortescu.com/posts/commit/</guid>
+      <description>Hi and welcome to my weekly post! It’s been too long since we spoke last time, so why don’t you schedule a quick call with me here?
+In the last post, I talked about my ideas for Slack apps. They were either in the AI space or focused on productivity or integrations. In this post, I cover how I thought about my elimination process and what was left after it.</description>
+    </item>
+    
     <item>
       <title>#8 Slack app ideas: AI, Productivity, Integrations</title>
       <link>http://www.scortescu.com/posts/slackappideas/</link>
