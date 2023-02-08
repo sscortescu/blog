@@ -72,8 +72,8 @@ There are a ton of things that need to happen before I’ll be able to call this
         - “What are the assumptions behind X”
         - “Write a persuasive argument for X”
         - “Rewrite X to be more polite/non-violent/customer friendly”
-    - Better answer quality
-    - Add perspectives/profiles - answer all the framework questions from the point of view of a designer/Elon Musk/a dog/[build your own profile]
+- Better answer quality
+- Add perspectives/profiles - answer all the framework questions from the point of view of a designer/Elon Musk/a dog/[build your own profile]
 - User interface improvements:
     - Build a homepage in Slack for the bot, to help users get started and change settings
     - Add modals - a way for users to interact with the bot that gives more guidance than the /slash commands in the pictures above, like how Slack does it for its built in reminder feature, see below
