@@ -9,7 +9,18 @@
       <link>http://www.scortescu.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Feb 2023 18:39:10 +0100</lastBuildDate><atom:link href="http://www.scortescu.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Feb 2023 23:34:39 +0100</lastBuildDate><atom:link href="http://www.scortescu.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#10 SlackGPT Week 1 progress update</title>
+      <link>http://www.scortescu.com/posts/slackgpt_w1/</link>
+      <pubDate>Wed, 08 Feb 2023 23:34:39 +0100</pubDate>
+      
+      <guid>http://www.scortescu.com/posts/slackgpt_w1/</guid>
+      <description>Hi and thanks for coming to my blog!
+In my last post I wrote about committing to build a Slack app that gives access to the GPT AI language model. This week I’ve thought more about what exactly this app should be doing and also had great progress in building a prototype. In this post, I will be covering:
+🔭 Vision: When my bot grows up, what will it become? 🛴Minimum Viable Product: Current state and what’s still missing 🗿Personal update: How’s it going, Stefan?</description>
+    </item>
+    
     <item>
       <title>#9 Committing to build an AI bot</title>
       <link>http://www.scortescu.com/posts/commit/</link>
