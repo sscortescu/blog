@@ -9,7 +9,17 @@
       <link>http://www.scortescu.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 08 Feb 2023 23:34:39 +0100</lastBuildDate><atom:link href="http://www.scortescu.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Feb 2023 18:59:21 +0100</lastBuildDate><atom:link href="http://www.scortescu.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#11 SlackGPT Week 2: Answer quality sorrows</title>
+      <link>http://www.scortescu.com/posts/slackgpt_w2/</link>
+      <pubDate>Wed, 15 Feb 2023 18:59:21 +0100</pubDate>
+      
+      <guid>http://www.scortescu.com/posts/slackgpt_w2/</guid>
+      <description>Hi and welcome to my weekly update, where I write about the day-to-day of my attempt at entrepreneurship. Last week I wrote about my vision for the Slack app that I’m building, and what needs to get done on the way to a working prototype. In this post I share some updates on said prototype.
+🛴Road to a working prototype This week, I’ve been focused on two things: improving results from GPT and building a running slack app with slash commands and shortcuts.</description>
+    </item>
+    
     <item>
       <title>#10 SlackGPT Week 1 progress update</title>
       <link>http://www.scortescu.com/posts/slackgpt_w1/</link>
