@@ -9,7 +9,16 @@
       <link>http://www.scortescu.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 15 Feb 2023 18:59:21 +0100</lastBuildDate><atom:link href="http://www.scortescu.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Feb 2023 23:26:03 +0100</lastBuildDate><atom:link href="http://www.scortescu.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#12 SlackGPT Week 3: Better answer quality and homepage</title>
+      <link>http://www.scortescu.com/posts/slackgpt_w3/</link>
+      <pubDate>Wed, 22 Feb 2023 23:26:03 +0100</pubDate>
+      
+      <guid>http://www.scortescu.com/posts/slackgpt_w3/</guid>
+      <description>Hi and welcome to my weekly update! I’ve spent the past 3 weeks working on a Slack bot that answers business questions according to pre-defined frameworks - SlackGPT. A minimum-viable version of SlackGPT is in progress. That includes a working bot that users can install onto their own Slack workspace and interact with from multiple touchpoints + a landing page. My self-imposed deadline (see random thought below) for this version is 28.</description>
+    </item>
+    
     <item>
       <title>#11 SlackGPT Week 2: Answer quality sorrows</title>
       <link>http://www.scortescu.com/posts/slackgpt_w2/</link>
