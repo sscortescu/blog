@@ -9,7 +9,16 @@
       <link>http://www.scortescu.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 22 Feb 2023 23:26:03 +0100</lastBuildDate><atom:link href="http://www.scortescu.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Mar 2023 13:41:35 +0100</lastBuildDate><atom:link href="http://www.scortescu.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#13 SlackGPT Week 4: Landing page and user management</title>
+      <link>http://www.scortescu.com/posts/slackgpt_w4/</link>
+      <pubDate>Wed, 01 Mar 2023 13:41:35 +0100</pubDate>
+      
+      <guid>http://www.scortescu.com/posts/slackgpt_w4/</guid>
+      <description>Hi and welcome to this week’s update! It’s been a month since I’m working on SquidGPT - a Slack bot that answers business questions according to pre-defined frameworks. I was hoping to have a working, installable version of the bot by the end of February. It looks like I’ll be extending that deadline until next week (for now 😅) - turns out user management is more difficult than I thought.</description>
+    </item>
+    
     <item>
       <title>#12 SlackGPT Week 3: Better answer quality and homepage</title>
       <link>http://www.scortescu.com/posts/slackgpt_w3/</link>
