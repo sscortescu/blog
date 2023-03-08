@@ -9,7 +9,17 @@
       <link>http://www.scortescu.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Mar 2023 13:41:35 +0100</lastBuildDate><atom:link href="http://www.scortescu.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Mar 2023 19:13:40 +0100</lastBuildDate><atom:link href="http://www.scortescu.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#14 SlackGPT Week 5: User management and OpenAI’s own Slack bot</title>
+      <link>http://www.scortescu.com/posts/slackgpt_w5/</link>
+      <pubDate>Wed, 08 Mar 2023 19:13:40 +0100</pubDate>
+      
+      <guid>http://www.scortescu.com/posts/slackgpt_w5/</guid>
+      <description>Hi and welcome to this week’s update! This week I was heads down coding the bot installation and user management. I finished that in good time and spent some time iterating implementing first feedback in SquidGPT’s website + some minor formatting improvements in the actual app. Finally, today I found out OpenAI is working on their own Slack app (⚠️) - no surprise there, but still .
+🛴Road to a working prototype RIP old deadline of 28.</description>
+    </item>
+    
     <item>
       <title>#13 SlackGPT Week 4: Landing page and user management</title>
       <link>http://www.scortescu.com/posts/slackgpt_w4/</link>
