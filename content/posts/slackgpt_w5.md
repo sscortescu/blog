@@ -27,7 +27,7 @@ I’ve decided to invest some more effort into the landing page beside the insta
 - Lowered prices to 2$/user/month
 - Added a section on data privacy and security
 
-Here’s the new page in its full glory (or go to [this link](https://squidgpt.carrd.co/) for the real thing):
+Here’s the new page in its full glory (or go to [this link](https://squidgpt.app/) for the real thing):
 
 ![landing_v2](/slackgpt_w5/landing_v2.png#center)
 

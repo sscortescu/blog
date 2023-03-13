@@ -18,7 +18,7 @@ RIP old deadline of 28.02.23. New deadline 08.03.2022. Four main deliverables:
 
 ## ⚠️Landing page
 
-Good news: I’ve finished a first draft of [SquidGPT’s landing page](https://squidgpt.carrd.co/) (screenshot below for future generations)
+Good news: I’ve finished a first draft of [SquidGPT’s landing page](https://squidgpt.app/) (screenshot below for future generations)
 
 Not so good news: the install button doesn’t work - courtesy of still inexistent user management
 
