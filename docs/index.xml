@@ -9,7 +9,18 @@
       <link>http://www.scortescu.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 08 Mar 2023 19:13:40 +0100</lastBuildDate><atom:link href="http://www.scortescu.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Mar 2023 18:00:02 +0100</lastBuildDate><atom:link href="http://www.scortescu.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#16 SlackGPT Week 6: Marketing babysteps and joining Antler</title>
+      <link>http://www.scortescu.com/posts/slackgpt_w6/</link>
+      <pubDate>Wed, 15 Mar 2023 18:00:02 +0100</pubDate>
+      
+      <guid>http://www.scortescu.com/posts/slackgpt_w6/</guid>
+      <description>Hey there, thanks for coming! This week I started customer development efforts. The goal is to talk to people that could benefit from using SquidGPT, and understand what problems it could help them solve. That should translate into improvements and new features in the app, which will turn it into a product people actually find helpful.
+Also, big announcement this week: I got accepted into Antler’s April Paris cohort.
+Today’s show:</description>
+    </item>
+    
     <item>
       <title>#14 SlackGPT Week 5: User management and OpenAI’s own Slack bot</title>
       <link>http://www.scortescu.com/posts/slackgpt_w5/</link>
