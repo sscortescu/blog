@@ -1,5 +1,5 @@
 ---
-title: "#16 SlackGPT Week 6: Marketing babysteps and joining Antler"
+title: "#15 SlackGPT Week 6: Marketing babysteps and joining Antler"
 date: 2023-03-15T18:00:02+01:00
 draft: false
 ---
