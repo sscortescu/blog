@@ -9,7 +9,18 @@
       <link>http://www.scortescu.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 15 Mar 2023 18:00:02 +0100</lastBuildDate><atom:link href="http://www.scortescu.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Mar 2023 14:05:44 +0100</lastBuildDate><atom:link href="http://www.scortescu.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#16 SlackGPT Week 6: First discovery interviews</title>
+      <link>http://www.scortescu.com/posts/slackgpt_w7/</link>
+      <pubDate>Wed, 22 Mar 2023 14:05:44 +0100</pubDate>
+      
+      <guid>http://www.scortescu.com/posts/slackgpt_w7/</guid>
+      <description>Hey you! I’ve been heads down in the customer discovery process, so today I’ll be sharing a quick update on how that’s going + some stats on you 🥁
+Customer discovery progress Let’s start this off with some numbers. In the chart below you can see that around 1% (2/161) of cold messages get converted into interviews (🥲).
+Half of those messages were very lightly personalized, and half of them I personalized more thoroughly, including based on your feedback.</description>
+    </item>
+    
     <item>
       <title>#15 SlackGPT Week 6: Marketing babysteps and joining Antler</title>
       <link>http://www.scortescu.com/posts/slackgpt_w6/</link>
@@ -100,7 +111,7 @@ In today’s post:
       <description>Hi and thanks for coming by! Short update this week.
 In my last post, I finished with a list of ways to find micro-Saas ideas, that I planned to use.
 One of the ways was trying find inspiration in SaaS idea newsletters. So, for the past week-and-a-bit, I&amp;rsquo;ve been doing that, which produced some moderate results. Here’s a dump of ideas:
-Idea dump * Taxfix for solopreneurs * Bubble plugin that takes webform data to google sheets * Linktree-style website builder for doctors and other independent practitioners, including appointment booking, payments, loyalty.</description>
+Idea dump* Taxfix for solopreneurs* Bubble plugin that takes webform data to google sheets* Linktree-style website builder for doctors and other independent practitioners, including appointment booking, payments, loyalty.</description>
     </item>
     
     <item>
