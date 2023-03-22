@@ -5,7 +5,7 @@ draft: false
 ---
 Hey you! I’ve been heads down in the customer discovery process, so today I’ll be sharing a quick update on how that’s going + some stats on you 🥁
 
-## Customer discovery progress
+# 🙋Customer discovery progress
 
 Let’s start this off with some numbers. In the chart below you can see that around 1% (2/161) of cold messages get converted into interviews (🥲).
 
@@ -19,7 +19,7 @@ Of the two interviews I’ve done already, one was super useful. It was with a P
 
 Oh, and something I’ve learned about LinkedIn, was that it’s not very hard for the platform to label you a spammer. Viewing more than ~80 profiles/company pages in one day can get you there (seems to apply only to people you’re not connected with). [Here’s a guide I found](https://phantombuster.com/blog/guides/linkedin-automation-rate-limits-2021-edition-5pFlkXZFjtku79DltwBF0M) on this.
 
-# You
+# 🤟You
 
 This posts marks 4 months of continuous writing, so I thought I’d share some stats on the visitors of this page (👁️). 
 
