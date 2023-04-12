@@ -9,7 +9,18 @@
       <link>http://www.scortescu.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 05 Apr 2023 13:37:45 +0200</lastBuildDate><atom:link href="http://www.scortescu.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Apr 2023 20:24:51 +0200</lastBuildDate><atom:link href="http://www.scortescu.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#19 SlackGPT Week 10: Prepping the bot for launch</title>
+      <link>http://www.scortescu.com/posts/slackgpt_w10/</link>
+      <pubDate>Wed, 12 Apr 2023 20:24:51 +0200</pubDate>
+      
+      <guid>http://www.scortescu.com/posts/slackgpt_w10/</guid>
+      <description>Hi and welcome to my wantrepreneurship blog! Quick update this week: I focused on building up new capabilities for SquidGPT, based on learnings from discovery interviews.
+🦑Updates to SquidGPT After talking to around 10 product managers, I prioritized the first few frameworks that fit the following requirements:
+Widely used by product managers across companies AI can write content on them from rough inputs My interviewees said they have already used or would use AI to help them write this type of content The frameworks I implemented are:</description>
+    </item>
+    
     <item>
       <title>#18 SlackGPT Week 9: Antler prep, more discovery interviews (2)</title>
       <link>http://www.scortescu.com/posts/slackgpt_w9/</link>
