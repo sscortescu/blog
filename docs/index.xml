@@ -5,13 +5,24 @@
     <link>http://www.scortescu.com/</link>
     <description>Recent content on Stefan&#39;s blog</description>
     <image>
+      <title>Stefan&#39;s blog</title>
       <url>http://www.scortescu.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://www.scortescu.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 08 Jul 2023 18:57:12 +0200</lastBuildDate><atom:link href="http://www.scortescu.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jul 2023 17:29:25 +0200</lastBuildDate><atom:link href="http://www.scortescu.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>22 Antler wrap-up and what’s next</title>
+      <title>#23 Iro - (not) a therapy chatbot</title>
+      <link>http://www.scortescu.com/posts/iro_w1/</link>
+      <pubDate>Sun, 23 Jul 2023 17:29:25 +0200</pubDate>
+      
+      <guid>http://www.scortescu.com/posts/iro_w1/</guid>
+      <description>Hi there! Today I want to share a bit more about Iro - the project I started at Antler, with my cofounder Nalla.
+Before I dive into that, a quick note on the new blog frequency: I’ll now try to share bi-weekly updates, instead of weekly. You can also now subscribe to be notified when there’s a new post. Just add your email here (you’ll receive an email asking you to confirm - make sure you do 🙂)</description>
+    </item>
+    
+    <item>
+      <title>#22 Antler wrap-up and what’s next</title>
       <link>http://www.scortescu.com/posts/antler_wrapup/</link>
       <pubDate>Sat, 08 Jul 2023 18:57:12 +0200</pubDate>
       

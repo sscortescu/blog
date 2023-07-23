@@ -76,7 +76,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my wantrepreneurship blog, where I write about exploring ideas and building solutions
+    Content: Welcome to my wantrepreneurship blog, where I write about exploring ideas and building solutions. Subscribe [here](https://tinyletter.com/sscortescu) to get updates.
 
   socialIcons:
     - name: linkedin
