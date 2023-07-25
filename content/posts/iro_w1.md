@@ -41,7 +41,7 @@ In the next update, I’ll share more about how the marketing campaign went, and
 
 # **🗿Personal update: How’s it going, Stefan?**
 
-I’m very happy with the progress we’re making so far with Iro. Aside from that, I’m recovering well from my ankle sprain, so things are looking up for doing the Amsterdam marathon in September. 
+I’m very happy with the progress we’re making so far with Iro. Aside from that, I’m recovering well from my ankle sprain, so things are looking up for doing the Eindhoven marathon in October. 
 
 ---
 ## 💡[Subscribe](https://tinyletter.com/sscortescu) to get new posts in your email
