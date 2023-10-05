@@ -9,7 +9,18 @@
       <link>http://www.scortescu.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 23 Jul 2023 17:29:25 +0200</lastBuildDate><atom:link href="http://www.scortescu.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Oct 2023 09:17:24 +0200</lastBuildDate><atom:link href="http://www.scortescu.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#24 Wrapping up two projects</title>
+      <link>http://www.scortescu.com/posts/iro_wrapup/</link>
+      <pubDate>Thu, 05 Oct 2023 09:17:24 +0200</pubDate>
+      
+      <guid>http://www.scortescu.com/posts/iro_wrapup/</guid>
+      <description>Hi and welcome to my wantrepreneurship blog!
+The past two months have been yet another roller coaster that ended in… well it didn’t end the way I hoped. I wish the title of this blog was “First customers using the app - learnings”, but today’s post is more of a post-mortem. In fact, it’s two post mortems in one.
+However, that’s not a bad thing (well not completely). In 2023 alone, I can count 5 projects and/or teams that I’ve started and stopped, so far.</description>
+    </item>
+    
     <item>
       <title>#23 Iro - (not) a therapy chatbot</title>
       <link>http://www.scortescu.com/posts/iro_w1/</link>
