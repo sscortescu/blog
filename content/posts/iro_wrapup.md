@@ -26,9 +26,7 @@ Check out the chart below, where I plot the Cost of Acquisition against ad cost 
 
 I heard B2C is “hard” from multiple people, multiple times. Only after making this chart, did I believe it. However, “hard” doesn’t have to be a show stopper. Doing “hard” things is awesome! So we went ahead with the campaign. 
 
-And then no one signed up. Barely any of the people that saw the ads clicked on them. On top of that, while the campaign was running, my cofounder grew anxious about the results. They projected that anxiety on our team, which then lead to our team breaking up.  
-
-We had agreed to stop the project if we couldn’t validate the value proposition, so no problem - right? But this hurt nonetheless. As with romantic break-ups, business break-ups can be painful and confusing. Even when it’s a planned breakup. 
+And then we didn't get close to the results we were aiming for. We had agreed to stop the project if we couldn’t validate the value proposition, so no problem - right? But this hurt nonetheless. As with romantic break-ups, business break-ups can be painful and confusing. Even when it’s a planned breakup. 
 
 If there is one fundamental reason for this one beyond the flopped campaign, it’s founder compatibility. On paper, we were extremely compatible, matching on almost all of the [50 questions](https://proof-assets.s3.amazonaws.com/firstround/50%20Questions%20for%20Co-Founders.pdf) (founder compatibility discussion prompts). People of course are (mostly) not on paper. We tend to act differently from synthetic (ideal?) descriptions of ourselves. We also never fully assimilate synthetic description of others.
 
