@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.scortescu.com/posts/iro_wrapup/</loc>
-    <lastmod>2023-10-05T09:17:24+02:00</lastmod>
+    <loc>http://www.scortescu.com/posts/lumos_1/</loc>
+    <lastmod>2023-12-22T19:24:56+02:00</lastmod>
   </url><url>
     <loc>http://www.scortescu.com/posts/</loc>
-    <lastmod>2023-10-05T09:17:24+02:00</lastmod>
+    <lastmod>2023-12-22T19:24:56+02:00</lastmod>
   </url><url>
     <loc>http://www.scortescu.com/</loc>
+    <lastmod>2023-12-22T19:24:56+02:00</lastmod>
+  </url><url>
+    <loc>http://www.scortescu.com/posts/iro_wrapup/</loc>
     <lastmod>2023-10-05T09:17:24+02:00</lastmod>
   </url><url>
     <loc>http://www.scortescu.com/posts/iro_w1/</loc>
