@@ -42,8 +42,8 @@ I have a lot of ideas for features (more advice categories, more personalized ad
 Top priority is talking to customers. I’ll be looking to talk to anyone who does or manages sales. That means January and February will be about customer discovery & customer development with a slight detour to put up a landing page.
 
 # 🗿Personal update
-
-Switching it up a bit this time, I’ll share a new hobby of mine. ChatGPT now has both vision and image generation. This changed the way I visit museums. Now, when I see a piece of art that I like, I take a picture and try to remix it. Check out the series below.
+2023 was a rollercoaster year, and I can't wait to see what 2024 has in store. Meanwhile, if you're reading this in the holiday season, Happy Holidays to you! And if not, I hope your year is wild, whichever it is. 
+To wrap the year up, I’ll share a new hobby of mine. ChatGPT now has both vision and image generation. This changed the way I visit museums. Now, when I see a piece of art that I like, I take a picture and try to remix it. Check out the series below.
 
 *Original: Jan van Kessel - Singerie*
 
