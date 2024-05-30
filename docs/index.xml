@@ -9,7 +9,17 @@
       <link>http://www.scortescu.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 22 Dec 2023 19:24:56 +0200</lastBuildDate><atom:link href="http://www.scortescu.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 May 2024 16:21:56 +0200</lastBuildDate><atom:link href="http://www.scortescu.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#26 TypeCharm is publicly available</title>
+      <link>http://www.scortescu.com/posts/typecharm_1/</link>
+      <pubDate>Thu, 30 May 2024 16:21:56 +0200</pubDate>
+      
+      <guid>http://www.scortescu.com/posts/typecharm_1/</guid>
+      <description>In December last year, I had finished a proof concept for a chrome extension that determines people’s DISC personality type based on people’s LinkedIn profiles. The plan was to spend the following two months (January and February) on user discovery - understanding what my potential customers really need. In this post I’ll talk about how that went, what progress I made since then, and what’s next.
+🔍User discovery for a personality analysis app My goal in user discovery was to talk to 100 people by the end of February.</description>
+    </item>
+    
     <item>
       <title>#25 Who knows you the best?</title>
       <link>http://www.scortescu.com/posts/lumos_1/</link>
