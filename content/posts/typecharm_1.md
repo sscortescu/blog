@@ -1,12 +1,6 @@
 ---
-title: "Typecharm_1"
-date: 2024-09-17T18:34:52+02:00
-draft: true
----
-
----
-title: "#26 TypeCharm is publicly available"
-date: 2024-05-30T16:21:56+02:00
+title: "#26 Typecharm is live"
+date: 2024-09-17
 draft: false
 ---
 

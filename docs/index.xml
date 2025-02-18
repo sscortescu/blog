@@ -9,15 +9,40 @@
       <link>http://www.scortescu.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 17 Sep 2024 18:35:39 +0200</lastBuildDate><atom:link href="http://www.scortescu.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 18 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://www.scortescu.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#28 I Die, Therefore I Am</title>
+      <link>http://www.scortescu.com/posts/intelligence/</link>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.scortescu.com/posts/intelligence/</guid>
+      <description>&lt;p&gt;Since I&amp;rsquo;ve started on SSRIs, there aren&amp;rsquo;t many things that bring the cortisol-spike knot-in-my-chest back. This tweet did. Hello anxiety, old friend.
+&lt;img loading=&#34;lazy&#34; src=&#34;http://www.scortescu.com/intelligence/tweet.png#center&#34; alt=&#34;tweet&#34;  /&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;cost-of-intelligence-goes-poof&#34;&gt;Cost of intelligence goes poof&lt;/h1&gt;
+&lt;p&gt;The cost of intelligence is on a path to becoming negligible. Large Language Models are improving so fast that it&amp;rsquo;s hard to even understand (graph and rate of change).  If you&amp;rsquo;re using LLMs daily, maybe you can relate to this experience. The felt sense of using AI now is magical - I didn&amp;rsquo;t get any invitation to Hogwards, but this is a close second. Advanced voice mode is NGL mind-blowing. That I can call ChatGPT mid-way through cooking a julienne to ask how to substitute wheat flour (with a French accent, please, thank you) is baffling.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>#27 🤷‍♂️ Why do a marathon to do a startup?</title>
       <link>http://www.scortescu.com/posts/marathon/</link>
       <pubDate>Tue, 17 Sep 2024 18:35:39 +0200</pubDate>
       
       <guid>http://www.scortescu.com/posts/marathon/</guid>
-      <description>My main goal this year is to reach ramen profitability with TypeCharm. The odds are against me. Most startups fail in the 1st 2 years. Time to revenue can (did!) stretch beyond the initial rush of optimism and willpower.
-How to trick my brain to put in the effort for its own sake, suspending judgement? What could I do that pushed my performance to the limit, with more certainty for a pay off?</description>
+      <description>&lt;p&gt;My main goal this year is to reach ramen profitability with TypeCharm. The odds are against me. Most startups fail in the 1st 2 years. Time to revenue can (did!) stretch beyond the initial rush of optimism and willpower.&lt;/p&gt;
+&lt;p&gt;How to trick my brain to put in the effort for its own sake, suspending judgement? What could I do that pushed my performance to the limit, with more certainty for a pay off?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>#26 Typecharm is live</title>
+      <link>http://www.scortescu.com/posts/typecharm_1/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.scortescu.com/posts/typecharm_1/</guid>
+      <description>&lt;p&gt;In December last year, I had finished a proof concept for a chrome extension that determines people’s DISC personality type based on people’s LinkedIn profiles. The plan was to spend the following two months (January and February) on user discovery - understanding what my potential customers really need. In this post I’ll talk about how that went, what progress I made since then, and what’s next.&lt;/p&gt;
+&lt;h1 id=&#34;user-discovery-for-a-personality-analysis-app&#34;&gt;🔍User discovery for a personality analysis app&lt;/h1&gt;
+&lt;p&gt;My goal in user discovery was to talk to 100 people by the end of February. I knew from the start that this was unrealistic. But this is a number’s game and it’s important to aim for something ambitious to at least get to something workable.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -26,8 +51,9 @@ How to trick my brain to put in the effort for its own sake, suspending judgemen
       <pubDate>Fri, 22 Dec 2023 19:24:56 +0200</pubDate>
       
       <guid>http://www.scortescu.com/posts/lumos_1/</guid>
-      <description>Hi and welcome to another post on my entrepreneurship journey. This is the last post for 2023, so let’s get right to it.
-😶‍🌫️October In my previous post, I mentioned how I was still talking to someone from my last founding team about building something together. That didn’t work out - hard to find a common topic. I had a few other co-founder dates but none that grew into something more.</description>
+      <description>&lt;p&gt;Hi and welcome to another post on my entrepreneurship journey. This is the last post for 2023, so let’s get right to it.&lt;/p&gt;
+&lt;h1 id=&#34;october&#34;&gt;😶‍🌫️October&lt;/h1&gt;
+&lt;p&gt;In my previous post, I mentioned how I was still talking to someone from my last founding team about building something together. That didn’t work out - hard to find a common topic. I had a few other co-founder dates but none that grew into something more.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -36,9 +62,9 @@ How to trick my brain to put in the effort for its own sake, suspending judgemen
       <pubDate>Thu, 05 Oct 2023 09:17:24 +0200</pubDate>
       
       <guid>http://www.scortescu.com/posts/iro_wrapup/</guid>
-      <description>Hi and welcome to my wantrepreneurship blog!
-The past two months have been yet another roller coaster that ended in… well it didn’t end the way I hoped. I wish the title of this blog was “First customers using the app - learnings”, but today’s post is more of a post-mortem. In fact, it’s two post mortems in one.
-However, that’s not a bad thing (well not completely). In 2023 alone, I can count 5 projects and/or teams that I’ve started and stopped, so far.</description>
+      <description>&lt;p&gt;Hi and welcome to my wantrepreneurship blog!&lt;/p&gt;
+&lt;p&gt;The past two months have been yet another roller coaster that ended in… well it didn’t end the way I hoped. I wish the title of this blog was “First customers using the app - learnings”, but today’s post is more of a post-mortem. In fact, it’s two post mortems in one.&lt;/p&gt;
+&lt;p&gt;However, that’s not a bad thing (well not completely). In 2023 alone, I can count 5 projects and/or teams that I’ve started and stopped, so far. Even if they didn’t grow to become “real things”, giving up on each of them was hard. But every time, I learned a new way to &lt;em&gt;let go&lt;/em&gt;, which is an important spiritual and emotional skill.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -47,8 +73,8 @@ However, that’s not a bad thing (well not completely). In 2023 alone, I can co
       <pubDate>Sun, 23 Jul 2023 17:29:25 +0200</pubDate>
       
       <guid>http://www.scortescu.com/posts/iro_w1/</guid>
-      <description>Hi there! Today I want to share a bit more about Iro - the project I started at Antler, with my cofounder Nalla.
-Before I dive into that, a quick note on the new blog frequency: I’ll now try to share bi-weekly updates, instead of weekly. You can also now subscribe to be notified when there’s a new post. Just add your email here (you’ll receive an email asking you to confirm - make sure you do 🙂)</description>
+      <description>&lt;p&gt;Hi there! Today I want to share a bit more about &lt;a href=&#34;https://heyiro.com/&#34;&gt;Iro&lt;/a&gt; - the project I started at Antler, with my cofounder Nalla.&lt;/p&gt;
+&lt;p&gt;Before I dive into that, a quick note on the new blog frequency: I’ll now try to share bi-weekly updates, instead of weekly. You can also now subscribe to be notified when there’s a new post. Just add your email &lt;a href=&#34;https://tinyletter.com/sscortescu&#34;&gt;here&lt;/a&gt; (you’ll receive an email asking you to confirm - make sure you do 🙂)&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -57,9 +83,14 @@ Before I dive into that, a quick note on the new blog frequency: I’ll now try 
       <pubDate>Sat, 08 Jul 2023 18:57:12 +0200</pubDate>
       
       <guid>http://www.scortescu.com/posts/antler_wrapup/</guid>
-      <description>Hi there! It’s been too long since my last post. The truth is that the Antler experience started taking more and more time and headspace, including on the weekends. I tried to use all of the down time to rest and recharge, but now weekly posts are back on.
-In this post I’ll cover three things:
-🅰️A quick summary of my Antler experience 🗿Personal update: How’s it going, Stefan? 🧠Next steps Let’s jump right in!</description>
+      <description>&lt;p&gt;Hi there! It’s been too long since my last post. The truth is that the Antler experience started taking more and more time and headspace, including on the weekends. I tried to use all of the down time to rest and recharge, but now weekly posts are back on.&lt;/p&gt;
+&lt;p&gt;In this post I’ll cover three things:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;🅰️A quick summary of my Antler experience&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🗿Personal update: How’s it going, Stefan?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;🧠&lt;strong&gt;Next steps&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let’s jump right in!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -68,9 +99,9 @@ In this post I’ll cover three things:
       <pubDate>Sun, 30 Apr 2023 12:14:21 +0200</pubDate>
       
       <guid>http://www.scortescu.com/posts/antler_w2/</guid>
-      <description>Hi there! Thanks for coming to my blog where I write about my entrepreneurial journey! I’m writing this from a train going to Le Havre. Somehow it feels like I’m sending a postcard into the ether.
-This postcard is the second in a series I will be writing while participating in the Antler program. The 1st post is here.
-The first week of Antler was intense, but the second week even more so.</description>
+      <description>&lt;p&gt;Hi there! Thanks for coming to my blog where I write about my entrepreneurial journey! I’m writing this from a train going to Le Havre. Somehow it feels like I’m sending a postcard into the ether.&lt;/p&gt;
+&lt;p&gt;This post&lt;em&gt;card&lt;/em&gt; is the second in a series I will be writing while participating in the Antler program. The 1st post is &lt;a href=&#34;http://www.scortescu.com/posts/antler_w1/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The first week of Antler was intense, but the second week even more so. Almost every day, when the office would close, we’d go for dinner and drinks and more socializing. What’s awesome about this is that besides finding a team, there’s a lot of friendship potential. On the other hand, it must be draining for introverts.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -79,9 +110,9 @@ The first week of Antler was intense, but the second week even more so.</descrip
       <pubDate>Sat, 22 Apr 2023 19:16:51 +0200</pubDate>
       
       <guid>http://www.scortescu.com/posts/antler_w1/</guid>
-      <description>Hi there! Thanks for coming to my blog where I write about my entrepreneurial journey!
-On Monday, I started the Antler program together with around 60 other founders. It’s amazing to see so many curious, driven people, that all want to build something great, all in one place. I’m very grateful to share this experience with them.
-For the coming months, I’ll be writing about my progress at Antler, where my goal is to find one or two co-founders, explore an idea together, and build it up to a seed-stage company.</description>
+      <description>&lt;p&gt;Hi there! Thanks for coming to my blog where I write about my entrepreneurial journey!&lt;/p&gt;
+&lt;p&gt;On Monday, I started the Antler program together with around 60 other founders. It’s amazing to see so many curious, driven people, that all want to build something great, all in one place. I’m very grateful to share this experience with them.&lt;/p&gt;
+&lt;p&gt;For the coming months, I’ll be writing about my progress at Antler, where my goal is to find one or two co-founders, explore an idea together, and build it up to a seed-stage company.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -90,9 +121,15 @@ For the coming months, I’ll be writing about my progress at Antler, where my g
       <pubDate>Wed, 12 Apr 2023 20:24:51 +0200</pubDate>
       
       <guid>http://www.scortescu.com/posts/slackgpt_w10/</guid>
-      <description>Hi and welcome to my wantrepreneurship blog! Quick update this week: I focused on building up new capabilities for SquidGPT, based on learnings from discovery interviews.
-🦑Updates to SquidGPT After talking to around 10 product managers, I prioritized the first few frameworks that fit the following requirements:
-Widely used by product managers across companies AI can write content on them from rough inputs My interviewees said they have already used or would use AI to help them write this type of content The frameworks I implemented are:</description>
+      <description>&lt;p&gt;Hi and welcome to my wantrepreneurship blog! Quick update this week: I focused on building up new capabilities for SquidGPT, based on learnings from discovery interviews.&lt;/p&gt;
+&lt;h1 id=&#34;updates-to-squidgpt&#34;&gt;🦑&lt;strong&gt;Updates to SquidGPT&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;After talking to around 10 product managers, I prioritized the first few frameworks that fit the following requirements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Widely used by product managers across companies&lt;/li&gt;
+&lt;li&gt;AI can write content on them from rough inputs&lt;/li&gt;
+&lt;li&gt;My interviewees said they have already used or would use AI to help them write this type of content&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The frameworks I implemented are:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -101,8 +138,9 @@ Widely used by product managers across companies AI can write content on them fr
       <pubDate>Wed, 05 Apr 2023 13:37:45 +0200</pubDate>
       
       <guid>http://www.scortescu.com/posts/slackgpt_w9/</guid>
-      <description>Hey there! Welcome to my blog, where I write about my entrepreneurial journey. Last week I spent most of my time meeting (&amp;gt;20) people from my Antler cohort, doing a few more discovery interviews and starting to research the insights coming out of these interviews.
-🅰️Preparing for the start of the program I’ve been meeting more and more potential co-founders last week, and I’m getting more and more excited to build something with one or more of them.</description>
+      <description>&lt;p&gt;Hey there! Welcome to my blog, where I write about my entrepreneurial journey. Last week I spent most of my time meeting (&amp;gt;20) people from my Antler cohort, doing a few more discovery interviews and starting to research the insights coming out of these interviews.&lt;/p&gt;
+&lt;h1 id=&#34;preparing-for-the-start-of-the-program&#34;&gt;🅰️Preparing for the start of the program&lt;/h1&gt;
+&lt;p&gt;I’ve been meeting more and more potential co-founders last week, and I’m getting more and more excited to build something with one or more of them. Genuinely impressed with the high caliber of people that Antler selected for the program. There’s a wide diversity of demographics (age, origin, but less so gender) and experiences (AI, consulting, product management, research, large corporates). Many of the people I met are passionate about topics such as climate, health (including mental) and of course AI, and a few are serial entrepreneurs.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -111,8 +149,9 @@ Widely used by product managers across companies AI can write content on them fr
       <pubDate>Wed, 29 Mar 2023 15:46:57 +0200</pubDate>
       
       <guid>http://www.scortescu.com/posts/slackgpt_w8/</guid>
-      <description>Hi and welcome to my weekly blog, where I write about my progress in building a company! I spent the last week mostly talking to people - I’m starting to get to know the awesome people in my Antler cohort (co-cohorters?), while also doing more discovery interviews.
-🅰️Preparing for the start of the program The first few weeks of the program are about testing the compatibility waters by getting to know and trying to work with potential cofounders.</description>
+      <description>&lt;p&gt;Hi and welcome to my weekly blog, where I write about my progress in building a company! I spent the last week mostly talking to people - I’m starting to get to know the awesome people in my Antler cohort (co-cohorters?), while also doing more discovery interviews.&lt;/p&gt;
+&lt;h1 id=&#34;preparing-for-the-start-of-the-program&#34;&gt;🅰️Preparing for the start of the program&lt;/h1&gt;
+&lt;p&gt;The first few weeks of the program are about testing the compatibility waters by getting to know and trying to work with potential cofounders. It’s like a combination of The Bachelor and Shark Tank. Since a few weeks is not enough to give it a try with every single person, some pre-program speed dating can help surface both good/bad chemistry and common interests/goals.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -121,9 +160,12 @@ Widely used by product managers across companies AI can write content on them fr
       <pubDate>Wed, 22 Mar 2023 14:05:44 +0100</pubDate>
       
       <guid>http://www.scortescu.com/posts/slackgpt_w7/</guid>
-      <description>Hey you! I’ve been heads down in the customer discovery process, so today I’ll be sharing a quick update on how that’s going + some stats on you 🥁
-🙋Customer discovery progress Let’s start this off with some numbers. In the chart below you can see that around 1% (2/161) of cold messages get converted into interviews (🥲).
-Half of those messages were very lightly personalized, and half of them I personalized more thoroughly, including based on your feedback.</description>
+      <description>&lt;p&gt;Hey you! I’ve been heads down in the customer discovery process, so today I’ll be sharing a quick update on how that’s going + some stats on you 🥁&lt;/p&gt;
+&lt;h1 id=&#34;customer-discovery-progress&#34;&gt;🙋Customer discovery progress&lt;/h1&gt;
+&lt;p&gt;Let’s start this off with some numbers. In the chart below you can see that around 1% (2/161) of cold messages get converted into interviews (🥲).&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://www.scortescu.com/slackgpt_w7/funnel.png#center&#34; alt=&#34;funnel&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Half of those messages were very lightly personalized, and half of them I personalized more thoroughly, including based on your feedback. Unfortunately that hasn’t made a difference yet. I’ll be following up with the people that haven’t replied yet (99%) - hopefully that will help.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -132,9 +174,18 @@ Half of those messages were very lightly personalized, and half of them I person
       <pubDate>Wed, 15 Mar 2023 18:00:02 +0100</pubDate>
       
       <guid>http://www.scortescu.com/posts/slackgpt_w6/</guid>
-      <description>Hey there, thanks for coming! This week I started customer development efforts. The goal is to talk to people that could benefit from using SquidGPT, and understand what problems it could help them solve. That should translate into improvements and new features in the app, which will turn it into a product people actually find helpful.
-Also, big announcement this week: I got accepted into Antler’s April Paris cohort.
-Today’s show:</description>
+      <description>&lt;p&gt;Hey there, thanks for coming! This week I started customer development efforts. The goal is to talk to people that could benefit from using &lt;a href=&#34;https://squidgpt.app/&#34;&gt;SquidGPT&lt;/a&gt;, and understand what problems it could help them solve. That should translate into improvements and new features in the app, which will turn it into a product people actually find helpful.&lt;/p&gt;
+&lt;p&gt;Also, big announcement this week: I got accepted into &lt;a href=&#34;https://www.antler.co/&#34;&gt;Antler&lt;/a&gt;’s April Paris cohort.&lt;/p&gt;
+&lt;p&gt;Today’s show:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🅰️&lt;strong&gt;Joining Antler&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;🙋&lt;strong&gt;First customer development efforts&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;🏛️&lt;strong&gt;Getting on the Slack app Marketplace&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;strong&gt;🗿Personal update: How’s it going, Stefan?&lt;/strong&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;➡️Next steps&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;joining-antler&#34;&gt;🅰️Joining Antler&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.antler.co/&#34;&gt;Antler&lt;/a&gt; is an early stage VC investor that runs a 10-week founder-matching program. By the end of these 10 weeks, I hope to have found a co-founder, developed an idea together and secured a seed investment (🤞). Exciting!!!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -143,8 +194,9 @@ Today’s show:</description>
       <pubDate>Wed, 08 Mar 2023 19:13:40 +0100</pubDate>
       
       <guid>http://www.scortescu.com/posts/slackgpt_w5/</guid>
-      <description>Hi and welcome to this week’s update! This week I was heads down coding the bot installation and user management. I finished that in good time and spent some time iterating implementing first feedback in SquidGPT’s website + some minor formatting improvements in the actual app. Finally, today I found out OpenAI is working on their own Slack app (⚠️) - no surprise there, but still .
-🛴Road to a working prototype RIP old deadline of 28.</description>
+      <description>&lt;p&gt;Hi and welcome to this week’s update! This week I was heads down coding the bot installation and user management. I finished that in good time and spent some time iterating implementing first feedback in SquidGPT’s website + some minor formatting improvements in the actual app. Finally, today I found out OpenAI is working on their own Slack app (⚠️) - no surprise there, but still .&lt;/p&gt;
+&lt;h1 id=&#34;road-to-a-working-prototype&#34;&gt;&lt;strong&gt;🛴Road to a working prototype&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;RIP old deadline of 28.02.23. New deadline 08.03.2022. Four main deliverables:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -153,7 +205,7 @@ Today’s show:</description>
       <pubDate>Wed, 01 Mar 2023 13:41:35 +0100</pubDate>
       
       <guid>http://www.scortescu.com/posts/slackgpt_w4/</guid>
-      <description>Hi and welcome to this week’s update! It’s been a month since I’m working on SquidGPT - a Slack bot that answers business questions according to pre-defined frameworks. I was hoping to have a working, installable version of the bot by the end of February. It looks like I’ll be extending that deadline until next week (for now 😅) - turns out user management is more difficult than I thought.</description>
+      <description>&lt;p&gt;Hi and welcome to this week’s update! It’s been a month since I’m working on SquidGPT - a Slack bot that answers business questions according to pre-defined frameworks. I was hoping to have a working, installable version of the bot by the end of February. It looks like I’ll be extending that deadline until next week (for now 😅) -  turns out user management is more difficult than I thought.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -162,7 +214,7 @@ Today’s show:</description>
       <pubDate>Wed, 22 Feb 2023 23:26:03 +0100</pubDate>
       
       <guid>http://www.scortescu.com/posts/slackgpt_w3/</guid>
-      <description>Hi and welcome to my weekly update! I’ve spent the past 3 weeks working on a Slack bot that answers business questions according to pre-defined frameworks - SlackGPT. A minimum-viable version of SlackGPT is in progress. That includes a working bot that users can install onto their own Slack workspace and interact with from multiple touchpoints + a landing page. My self-imposed deadline (see random thought below) for this version is 28.</description>
+      <description>&lt;p&gt;Hi and welcome to my weekly update! I’ve spent the past 3 weeks working on a Slack bot that answers business questions according to pre-defined frameworks - SlackGPT. A minimum-viable version of  SlackGPT is in progress. That includes a &lt;em&gt;working&lt;/em&gt; bot that users can install onto their own Slack workspace and interact with from multiple touchpoints + a landing page. My self-imposed deadline (&lt;em&gt;see random thought below&lt;/em&gt;) for this version is 28.02.23.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -171,8 +223,9 @@ Today’s show:</description>
       <pubDate>Wed, 15 Feb 2023 18:59:21 +0100</pubDate>
       
       <guid>http://www.scortescu.com/posts/slackgpt_w2/</guid>
-      <description>Hi and welcome to my weekly update, where I write about the day-to-day of my attempt at entrepreneurship. Last week I wrote about my vision for the Slack app that I’m building, and what needs to get done on the way to a working prototype. In this post I share some updates on said prototype.
-🛴Road to a working prototype This week, I’ve been focused on two things: improving results from GPT and building a running slack app with slash commands and shortcuts.</description>
+      <description>&lt;p&gt;Hi and welcome to my weekly update, where I write about the day-to-day of my attempt at entrepreneurship. &lt;a href=&#34;http://www.scortescu.com/posts/slackgpt_w1/&#34;&gt;Last week&lt;/a&gt; I wrote about my vision for the Slack app that I’m building, and what needs to get done on the way to a working prototype. In this post I share some updates on said prototype.&lt;/p&gt;
+&lt;h1 id=&#34;road-to-a-working-prototype&#34;&gt;🛴Road to a working prototype&lt;/h1&gt;
+&lt;p&gt;This week, I’ve been focused on two things: &lt;strong&gt;improving results from GPT&lt;/strong&gt; and &lt;strong&gt;building a running slack app&lt;/strong&gt; with slash commands and shortcuts. In terms of the day-to-day, this involved hitting new technical walls, bugs and things I’ve never done before followed by reading lots of documentation and Stackoverflow  posts, and most of all trying stuff.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -181,9 +234,16 @@ Today’s show:</description>
       <pubDate>Wed, 08 Feb 2023 23:34:39 +0100</pubDate>
       
       <guid>http://www.scortescu.com/posts/slackgpt_w1/</guid>
-      <description>Hi and thanks for coming to my blog!
-In my last post I wrote about committing to build a Slack app that gives access to the GPT AI language model. This week I’ve thought more about what exactly this app should be doing and also had great progress in building a prototype. In this post, I will be covering:
-🔭 Vision: When my bot grows up, what will it become? 🛴Minimum Viable Product: Current state and what’s still missing 🗿Personal update: How’s it going, Stefan?</description>
+      <description>&lt;p&gt;Hi and thanks for coming to my blog!&lt;/p&gt;
+&lt;p&gt;In my last post I wrote about committing to build a Slack app that gives access to the GPT AI language model. This week I’ve thought more about what exactly this app should be doing and also had great progress in building a prototype. In this post, I will be covering:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔭 &lt;strong&gt;Vision&lt;/strong&gt;: When my bot grows up, what will it become?&lt;/li&gt;
+&lt;li&gt;🛴&lt;strong&gt;Minimum Viable&lt;/strong&gt; &lt;strong&gt;Product&lt;/strong&gt;: Current state and what’s still missing&lt;/li&gt;
+&lt;li&gt;🗿&lt;strong&gt;Personal update:&lt;/strong&gt; How’s it going, Stefan?&lt;/li&gt;
+&lt;li&gt;➡️&lt;strong&gt;Next steps:&lt;/strong&gt; Step nexts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;vision-when-my-bot-grows-up-what-will-it-become&#34;&gt;🔭Vision: When my bot grows up, what will it become?&lt;/h1&gt;
+&lt;p&gt;The vision for the bot is to serve as a business analyst working for decision makers and the teams that support them. It is targeted at CEOs, consultants (internal and external), and (real 😀) business analysts across strategy and operations functions. These people often need to think about ambiguous business problems in structured, analytical ways.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -192,8 +252,10 @@ In my last post I wrote about committing to build a Slack app that gives access 
       <pubDate>Wed, 01 Feb 2023 18:39:10 +0100</pubDate>
       
       <guid>http://www.scortescu.com/posts/commit/</guid>
-      <description>Hi and welcome to my weekly post! It’s been too long since we spoke last time, so why don’t you schedule a quick call with me here?
-In the last post, I talked about my ideas for Slack apps. They were either in the AI space or focused on productivity or integrations. In this post, I cover how I thought about my elimination process and what was left after it.</description>
+      <description>&lt;p&gt;Hi and welcome to my weekly post! It’s been too long since we spoke last time, so why don’t you schedule a quick call with me &lt;a href=&#34;https://calendly.com/scortescu/30min&#34;&gt;here&lt;/a&gt;?&lt;/p&gt;
+&lt;p&gt;In the last post, I talked about my ideas for Slack apps. They were either in the AI space or focused on productivity or integrations. In this post, I cover how I thought about my elimination process and what was left after it.&lt;/p&gt;
+&lt;h1 id=&#34;choosing-one-idea-to-commit-to&#34;&gt;💡Choosing one idea to commit to&lt;/h1&gt;
+&lt;p&gt;On one hand, I don’t feel like any of my ideas so far are that amazing. Even the ones I get very excited about, when I read them the next day, I think to myself “That’s never going to work” or “Who needs that anyway?” On the other hand, real progress happens when you actually build something, show it to someone and iterate on the feedback. That’s why I’m sticking to my deadline for committing to an idea today.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -202,9 +264,15 @@ In the last post, I talked about my ideas for Slack apps. They were either in th
       <pubDate>Wed, 25 Jan 2023 22:15:18 +0100</pubDate>
       
       <guid>http://www.scortescu.com/posts/slackappideas/</guid>
-      <description>I can’t believe it’s been two months (three including breaks) of writing! One of the cool things about writing here is that I go back to what I wrote, to check what I was thinking last week. When a lot of my output is “thinking”, that helps me build on top of what I previously thought.
-In today’s post:
-💡Ideas: Last week’s top ideas 🗿Status: How’s it going, Stefan ➡️Next steps: Step nexts 💡Last week’s top ideas In previous posts I shared ideas as a brain dump.</description>
+      <description>&lt;p&gt;I can’t believe it’s been two months (three including breaks) of writing! One of the cool things about writing here is that I go back to what I wrote, to check what I was thinking last week. When a lot of my output is “thinking”, that helps me build on top of what I previously thought.&lt;/p&gt;
+&lt;p&gt;In today’s post:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💡&lt;strong&gt;Ideas:&lt;/strong&gt; Last week’s top ideas&lt;/li&gt;
+&lt;li&gt;🗿&lt;strong&gt;Status&lt;/strong&gt;: How’s it going, Stefan&lt;/li&gt;
+&lt;li&gt;➡️&lt;strong&gt;Next steps&lt;/strong&gt;: &lt;em&gt;Step nexts&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;last-weeks-top-ideas&#34;&gt;💡Last week’s top ideas&lt;/h1&gt;
+&lt;p&gt;In previous posts I shared ideas as a brain dump. However, now that I’m focusing on &lt;a href=&#34;https://slack.com/help/articles/115004071768-What-is-Slack-&#34;&gt;Slack&lt;/a&gt; apps, I thought it could be interesting to give more details about my thinking.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -213,10 +281,24 @@ In today’s post:
       <pubDate>Wed, 18 Jan 2023 18:22:59 +0100</pubDate>
       
       <guid>http://www.scortescu.com/posts/morebrainstorming/</guid>
-      <description>Hi and thanks for coming by! Short update this week.
-In my last post, I finished with a list of ways to find micro-Saas ideas, that I planned to use.
-One of the ways was trying find inspiration in SaaS idea newsletters. So, for the past week-and-a-bit, I&amp;rsquo;ve been doing that, which produced some moderate results. Here’s a dump of ideas:
-Idea dump* Taxfix for solopreneurs* Bubble plugin that takes webform data to google sheets* Linktree-style website builder for doctors and other independent practitioners, including appointment booking, payments, loyalty.</description>
+      <description>&lt;p&gt;Hi and thanks for coming by! Short update this week.&lt;/p&gt;
+&lt;p&gt;In my last post, I finished with a list of ways to find micro-Saas ideas, that I planned to use.&lt;/p&gt;
+&lt;p&gt;One of the ways was trying find inspiration in SaaS idea newsletters. So, for the past week-and-a-bit, I&amp;rsquo;ve been doing that, which produced some moderate results. Here’s a dump of ideas:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Idea dump
+* Taxfix for solopreneurs
+* Bubble plugin that takes webform data to google sheets
+* Linktree-style website builder for doctors and other independent practitioners, 
+including appointment booking, payments, loyalty. If Doctolib is Amazon, this is Shopify
+* Invoice generator from Notion/Coda
+* Some CMS ideas:
+** Knowledgebase that uses Airtable/Coda to manage it&amp;#39;s content
+** Use Airtable/Notion/Coda to manage content in Wordpress/Wix/Webflow or other website builders
+** Airtable/Notion/Coda to manage a simple productroadmap page, including feature upvote
+* Subscription flow/billing plugin for Wordpress/Wix/Webflow
+* Competitor comparison page generator based on G2/Capterra data
+* Manage (write, schedule, analytics) linkedin posts from notion/coda/airtable
+* [Shopify plugin] Scan QR code to take cart to mobile device and continue shopping 
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Another way to find ideas that I’ve read about and thought attractive, is to find popular apps on one platform (e.g. Shopify) and try to build it on a competitor’s platform (e.g. Woocommerce). So i found a &lt;a href=&#34;https://rocketgems.com/blog/saas-marketplaces/&#34;&gt;list of platforms that have app marketplaces&lt;/a&gt;. To better understand if these platforms are a good fit, I looked at 3 things: size, growth and whether they have documentation for building with Python (the programming language I’m least of a noob in). I also filtered out any platform that I know nothing about.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -225,9 +307,13 @@ Idea dump* Taxfix for solopreneurs* Bubble plugin that takes webform data to g
       <pubDate>Wed, 11 Jan 2023 18:38:31 +0100</pubDate>
       
       <guid>http://www.scortescu.com/posts/newyear2023/</guid>
-      <description>Hi there, and thanks for reading my blog and for your feedback 💚! It’s making a huge difference, in that it forces me to make my thinking clearer and it makes this “journey” less lonely.
-In my last post, I wrote about deciding to drop the field of employee engagement. As next steps, I proposed to:
-Write up my checklist for an idea worth exploring Try more ways to find micro-saas ideas.</description>
+      <description>&lt;p&gt;Hi there, and thanks for reading my blog and for your feedback 💚! It’s making a huge difference, in that it forces me to make my thinking clearer and it makes this “journey” less lonely.&lt;/p&gt;
+&lt;p&gt;In my last post, I wrote about deciding to drop the field of employee engagement. As next steps, I proposed to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Write up my checklist for an idea worth exploring&lt;/li&gt;
+&lt;li&gt;Try more ways to find micro-saas ideas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;I also want to share a few personal reflections. So&amp;hellip;on today’s menu, we have&lt;/strong&gt;:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -236,10 +322,11 @@ Write up my checklist for an idea worth exploring Try more ways to find micro-sa
       <pubDate>Thu, 22 Dec 2022 14:34:06 +0100</pubDate>
       
       <guid>http://www.scortescu.com/posts/chatbot/</guid>
-      <description>Hey there! This is my last post for 2022, and I’ll be back to the regular updates in 3 weeks. Thanks for reading my writing so far, for sharing your feedback and encouragement, and for keeping me accountable!
-⬅️Last week, I set out to: ❌Prepare for customer interviews
-✅Try to decide whether going into a super crowded space is worth it
-✅[Maybe] Try to see how far I can get in building out one of the ideas above</description>
+      <description>&lt;p&gt;Hey there! This is my last post for 2022, and I’ll be back to the regular updates in 3 weeks. Thanks for reading my writing so far, for sharing your feedback and encouragement, and for keeping me accountable!&lt;/p&gt;
+&lt;h3 id=&#34;last-week-i-set-out-to&#34;&gt;⬅️Last week, I set out to:&lt;/h3&gt;
+&lt;p&gt;❌Prepare for customer interviews&lt;/p&gt;
+&lt;p&gt;✅Try to decide whether going into a super crowded space is worth it&lt;/p&gt;
+&lt;p&gt;✅[Maybe] Try to see how far I can get in building out one of the ideas above&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -248,9 +335,10 @@ Write up my checklist for an idea worth exploring Try more ways to find micro-sa
       <pubDate>Wed, 14 Dec 2022 23:49:53 +0100</pubDate>
       
       <guid>http://www.scortescu.com/posts/competition2/</guid>
-      <description>Hi! Welcome to my blog, where I write about my path to building an internet business.
-I’m feeling better after last week’s cold, and excited about the holiday season: reading books and spending time with friends and family. Also, excited to share with you what I’ve learned this week.
-📑Quick recap Three weeks ago I declared (😬) that I will be focusing on the employee engagement space. What I’ve found since then is that this space is super-crowded, with hundreds of companies doing almost the same thing.</description>
+      <description>&lt;p&gt;Hi! Welcome to my blog, where I write about my path to building an internet business.&lt;/p&gt;
+&lt;p&gt;I’m feeling better after last week’s cold, and excited about the holiday season: reading books and spending time with friends and family. Also, excited to share with you what I’ve learned this week.&lt;/p&gt;
+&lt;h1 id=&#34;quick-recap&#34;&gt;📑Quick recap&lt;/h1&gt;
+&lt;p&gt;Three weeks ago I declared (😬) that I will be focusing on the employee engagement space. What I’ve found since then is that this space is super-crowded, with hundreds of companies doing almost the same thing. These companies offer solutions regarding engagement, feedback, 1on1s, onboarding (I skipped this one) and recognition. See below more details and example products:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -259,8 +347,36 @@ I’m feeling better after last week’s cold, and excited about the holiday sea
       <pubDate>Wed, 07 Dec 2022 20:06:09 +0100</pubDate>
       
       <guid>http://www.scortescu.com/posts/competition1/</guid>
-      <description>Hi, and welcome to my building-in-public blog. This week’s update is a short one. I wasted too much time reading articles and too little time documenting research. Also got a cold.
-➡️ Last week, I said I’ll be working on: Find potential customers and talk to them, starting with people managers and HR professionals in my network —&amp;gt; Will start preparing questions in the coming weeks, but will only reach out once the year ends, as I doubt I’ll get many responses before that.</description>
+      <description>&lt;p&gt;Hi, and welcome to my building-in-public blog. This week’s update is a short one. I wasted too much time reading articles and too little time documenting research. Also got a cold.&lt;/p&gt;
+&lt;h3 id=&#34;-last-week-i-said-ill-be-working-on&#34;&gt;&lt;strong&gt;➡️&lt;/strong&gt; Last week, I said I’ll be working on:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Find potential customers and talk to them, starting with people managers and HR professionals in my network —&amp;gt; &lt;em&gt;Will start preparing questions in the coming weeks, but will only reach out once the year ends,&lt;/em&gt; &lt;em&gt;as I doubt I’ll get many responses before that. Hopefully, understanding existing products should make for better questions.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Build an MVP. TBD how functional it’s going to be (could be some mockups, a landing page, an actual add-on with basic functionality). The idea is to have something people can react to —&amp;gt; &lt;em&gt;Will probably work on this in January/February.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Understand existing solutions, and what could be a unique angle of attack —&amp;gt; &lt;em&gt;quick update below, as this is work in progress&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;competitive-analysis&#34;&gt;🤔Competitive analysis&lt;/h2&gt;
+&lt;h3 id=&#34;what-am-i-trying-to-understand-by-looking-at-the-competition&#34;&gt;What am I trying to understand by looking at the competition?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;What are the unique things that make each competitor attractive?&lt;/li&gt;
+&lt;li&gt;What are common pain points with competitor’s products?&lt;/li&gt;
+&lt;li&gt;How could I find a unique angle of attack?
+&lt;ul&gt;
+&lt;li&gt;In which parts of employee engagement (1-on-1s, recognition, feedback, performance reviews, pulse surveys) could there be an opportunity to do something differently, and better?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;after-looking-at-8-competitors-in-detail-here-are-my-very-rough-hypotheses&#34;&gt;After looking at 8 competitors in detail, here are my very rough hypotheses:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Most existing solutions seem robotic, life-less. There’s an opportunity to make engagement tools more fun.&lt;/li&gt;
+&lt;li&gt;Smaller companies (e.g. &amp;lt;200) want to do feedback, but current solutions are too-process focused&lt;/li&gt;
+&lt;li&gt;Most solutions offer some analytics, but none (few?) seem to frame them for discussion (i.e. here’s a ready-made slide on the team pulse that you can use in the all-hands)&lt;/li&gt;
+&lt;li&gt;Engagement surveys and recognition apps (e.g. kudos/high five/etc.) seem like the easiest to build but also most overdone/overcrowded spaces&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;next-steps&#34;&gt;➡️Next steps&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Analyze ~40 more players in the space&lt;/li&gt;
+&lt;li&gt;Start framing questions for user interviews&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -269,9 +385,12 @@ I’m feeling better after last week’s cold, and excited about the holiday sea
       <pubDate>Wed, 30 Nov 2022 18:34:53 +0100</pubDate>
       
       <guid>http://www.scortescu.com/posts/ndts/</guid>
-      <description>Hi, and welcome to my building-in-public blog. The past week hasn’t been as productive as my inner critic keeps peddling, but I’ve managed to work on all the next steps I set out in my previous post.
-Next steps from last week ✅ Find common promising themes across brainstorming notes: expanding on that in the next section
-✔️ Write about the top 5 ideas I’m considering to moving to the next phase (validation) - hard to give myself a full checkmark for this one, as it’s really only one idea.</description>
+      <description>&lt;p&gt;Hi, and welcome to my building-in-public blog. The past week hasn’t been as productive as my inner critic keeps peddling, but I’ve managed to work on all the next steps I set out in my previous post.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://www.scortescu.com/ndts/fine.jfif#center&#34; alt=&#34;fine.jfif&#34;  /&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;next-steps-from-last-week&#34;&gt;Next steps from last week&lt;/h3&gt;
+&lt;p&gt;✅ &lt;strong&gt;Find common promising themes across brainstorming notes:&lt;/strong&gt; expanding on that in the next section&lt;/p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;Write about the top 5 ideas I’m considering to moving to the next phase (validation) -&lt;/strong&gt; hard to give myself a full checkmark for this one, as it’s really only one idea. But that’s fine&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -280,10 +399,16 @@ Next steps from last week ✅ Find common promising themes across brainstorming 
       <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>http://www.scortescu.com/posts/bip/</guid>
-      <description>Hi, I’m Stefan.
-If you’re reading this you probably know me personally, so you know that I’ve had an entrepreneurial itch since the pandemic started. Two and a half years later, I’ve built up enough courage to scratch that itch. I plan to spend the next phase of my life creating a software solution to a yet-to-be-defined problem.
-What’s in this post:
-Building in public - why I’ll be sharing my progress step by step Generating startup ideas - how I’m approaching the first step in building a business 📢Building in public What is building in public?</description>
+      <description>&lt;p&gt;Hi, I’m Stefan.&lt;/p&gt;
+&lt;p&gt;If you’re reading this you probably know me personally, so you know that I’ve had an entrepreneurial itch since the pandemic started. Two and a half years later, I’ve built up enough courage to scratch that itch. I plan to spend the next phase of my life creating a software solution to a yet-to-be-defined problem.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What’s in this post:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Building in public&lt;/strong&gt; - why I’ll be sharing my progress step by step&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Generating startup ideas -&lt;/strong&gt; how I’m approaching the first step in building a business&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;building-in-public&#34;&gt;📢Building in public&lt;/h2&gt;
+&lt;h3 id=&#34;what-is-building-in-public&#34;&gt;What is building in public?&lt;/h3&gt;
+&lt;p&gt;Building in public is about &lt;strong&gt;periodically and publicly sharing the progress&lt;/strong&gt; of building a solution/product/company. It’s the &lt;strong&gt;opposite of building in stealth&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>
