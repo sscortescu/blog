@@ -10,7 +10,7 @@ Since I've started on SSRIs, there aren't many things that bring the cortisol-sp
 
 # Cost of intelligence goes poof
 
-The cost of intelligence is on a path to becoming negligible. Large Language Models are improving so fast that it's hard to even understand (graph and rate of change).  If you're using LLMs daily, maybe you can relate to this experience. The felt sense of using AI now is magical - I didn't get any invitation to Hogwards, but this is a close second. Advanced voice mode is NGL mind-blowing. That I can call ChatGPT mid-way through cooking a julienne to ask how to substitute wheat flour (with a French accent, please, thank you) is baffling. 
+The cost of intelligence is on a path to becoming negligible. Large Language Models are improving [so fast that it's hard to even understand](https://x.com/eladgil/status/1827521805755806107).  If you're using LLMs daily, maybe you can relate to this experience. The felt sense of using AI now is magical - I didn't get any invitation to Hogwarts, but this is a close second. Advanced voice mode is NGL mind-blowing. That I can call ChatGPT mid-way through cooking a julienne to ask how to substitute wheat flour (with a French accent, please, thank you) is baffling. 
 
 Julienne is the first recipe I learned from my grand mother. This Christmas I installed ChatGPT on her phone: Hey Grandma, check this out, you can even ask it to remind you take your medication, are you calling me senile, I'm only 80! She's probably just worried AI is going replace her (jk, she's retired, and irreplaceable, it's me who's worried). Maybe she cares more about spending time with her grandson than talking to robots. She definitely doesn't believe AI can make a better julienne than her (not yet, grandma, not yet). 
 
