@@ -1,5 +1,5 @@
 ---
-title: "#28 I Die, Therefore I Am"
+title: "#28 What makes us human"
 date: 2025-02-18
 draft: false
 --- 
