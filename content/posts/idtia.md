@@ -94,8 +94,8 @@ If AI is the new benchmark, feeling might be the new thinking. I believe most pe
 If it’s so powerful, why isn’t everyone doing it? One thing or the other prevents us from tapping into sensation. Here are four hurdles from my own experience.
 
 1. **Why fix it if it ain’t broke?** If you read this far and still don’t think it’s worth the effort—I get it. Maybe you don’t buy my story. It’s really hard to want something you can’t imagine. I’m selling you a [“box of chocolates](https://www.youtube.com/watch?v=CJh59vZ8ccc)”, but it doesn’t have a picture on it, and you’ve barely ever had “chocolate”. [Staying in situations that make us a known amount of miserable is easier than change that could go either way](https://www.youtube.com/watch?v=GbPeFs7uDLM), because [losing stings twice as bad as winning feels good](https://link.springer.com/article/10.1007/s11166-005-6564-6).
-    
-    As long as we haven't seen the other side, our mind will estimate that it's not worth the gamble. More insidiously, sometimes we see glimpses of what life *could be*. Maybe in therapy. Maybe in love. Maybe (ahem) with psychedelics. We cling to those glimpses. So we freeze—afraid progress might shatter a fragile new equilibrium.
+
+As long as we haven't seen the other side, our mind will estimate that it's not worth the gamble. More insidiously, sometimes we see glimpses of what life *could be*. Maybe in therapy. Maybe in love. Maybe (ahem) with psychedelics. We cling to those glimpses. So we freeze—afraid progress might shatter a fragile new equilibrium.
     
 2. **And what if it’s too much?** What if life gets worse instead of better? We train ourselves to suppress the sensation we don’t like. We seek sensation we like, sometimes in self-defeating loops. Paradoxically, the “training” is really an atrophy that covers both pleasant and unpleasant sensation. Conversely, overstimulation burns through our interoceptive sensors, like staring at the sun.
 
@@ -103,11 +103,11 @@ How could we not? We’re monkeys riding lizards flying starships. The controls 
 
 ![ml](/idtia/ml.png#center)
 
-1. **It’s too hard and ambiguous:** So you want to feel sensation. How do you start? Psychology often points to “[emotional intelligence](https://psycnet.apa.org/record/1995-98387-000)” skills: self-awareness, self-regulation, motivation, empathy and social skills. Observing sensation is suggested for building these skills, but it’s *emotional literacy* (the ability to identify and name one’s feelings, framed through the six basic emotions) that supposedly plays the *fundamental* role.
+3. **It’s too hard and ambiguous:** So you want to feel sensation. How do you start? Psychology often points to “[emotional intelligence](https://psycnet.apa.org/record/1995-98387-000)” skills: self-awareness, self-regulation, motivation, empathy and social skills. Observing sensation is suggested for building these skills, but it’s *emotional literacy* (the ability to identify and name one’s feelings, framed through the six basic emotions) that supposedly plays the *fundamental* role.
 
 After six frustrated years in therapy trying to learn how to do this, I believe the approach is backwards. Things are getting better: [a new wave of therapy modalities](https://www.routledge.com/The-Comprehensive-Resource-Model-Effective-therapeutic-techniques-for-the-healing-of-complex-trauma/Schwarz-Corrigan-Hull-Raju/p/book/9781138579729) incorporates mindfulness, somatic and trauma-informed approaches. But they’re getting better in tiny increments, missing a central piece of the puzzle: attention skills.
 
-1. **It’s too much work:** The initial time investment in attention skills, to start experiencing meaningful sensation (see quiz above), is roughly 100 hours. At least 50 of these need to be in a silent retreat (my estimate, could vary). That’s because training attention takes a lot more energy (think calories) than our brain usually has in its “discretionary” budget. A silent retreat temporarily stops many of the “[big spenders](https://www.pnas.org/doi/10.1073/pnas.172399499)” (language, our internal narrative, and speaking). This might sound steep, and that’s understandable. 
+4. **It’s too much work:** The initial time investment in attention skills, to start experiencing meaningful sensation (see quiz above), is roughly 100 hours. At least 50 of these need to be in a silent retreat (my estimate, could vary). That’s because training attention takes a lot more energy (think calories) than our brain usually has in its “discretionary” budget. A silent retreat temporarily stops many of the “[big spenders](https://www.pnas.org/doi/10.1073/pnas.172399499)” (language, our internal narrative, and speaking). This might sound steep, and that’s understandable. 
 
 # How to feel sensation?
 
