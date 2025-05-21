@@ -1,5 +1,5 @@
 ---
-title: "I die therefore I am, I feel therefore I live"
+title: "From dopamine detox to enlightment"
 date: 2025-05-19T12:55:39+02:00
 draft: false
 ---
